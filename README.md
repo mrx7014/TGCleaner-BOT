@@ -67,7 +67,7 @@ Add your API ID, API Hash, Bot Token, and Group ID (either the numeric ID or gro
 ### Step 4: Run the Bot
 Now, run the bot with the following command:
 ```bash
-python cleaner.py
+python TGCleaner.py
 ```
 Once the bot is running, it will fetch all members from the specified group and start removing all non-admin members.
 

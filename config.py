@@ -1,6 +1,6 @@
 # config.py
 
-api_id = 'YOUR_API_ID'
-api_hash = 'YOUR_API_HASH'
-bot_token = 'YOUR_BOT_TOKEN'
-group_id = 'YOUR_GROUP_ID'  # Can be @username or numeric ID
+api_id = 'xxxxxxxxxxxxxxxxxxxx'
+api_hash = 'xxxxxxxxxxxxxxxxxx'
+bot_token = 'xxxxxxxxxxxxxxxxx'
+group_id = 'your_telegram_group_ID_User_name'  # Can be @username or numeric ID
