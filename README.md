@@ -77,5 +77,5 @@ Once the bot is running, it will fetch all members from the specified group and 
 
 - Test in Small Groups: Before using this bot on large groups, it’s a good idea to test it in smaller groups to ensure everything works as expected.
 
-### Credits:
-MRX7014
+# Credits:
+[MRX7014](https://github.com/BotFather).
