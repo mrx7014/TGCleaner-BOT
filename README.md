@@ -64,7 +64,7 @@ Add your API ID, API Hash, Bot Token, and Group ID (either the numeric ID or gro
 - bot_token = 'YOUR_BOT_TOKEN'
 - group_id = 'YOUR_GROUP_ID'  # Can be @username or numeric ID
 
-###Step 4: Run the Bot
+### Step 4: Run the Bot
 Now, run the bot with the following command:
 ```bash
 python cleaner.py
